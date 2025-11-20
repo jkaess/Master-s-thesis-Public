@@ -5,6 +5,7 @@ Repository for replicating the results of my master's thesis "Governing the Body
 # Masterthesis
 
 This repository serves as a repository for **replication** of the quantitative results of my masters thesis.
+My thesis was the work of two years and it's bit of a mess but I'm glad I finished it in the way I did. Thanks to everybody that helped me finish the project :D ! 
 
 ## Requirements
 
@@ -12,8 +13,9 @@ This repository serves as a repository for **replication** of the quantitative r
  - german macrodata set from Thomas Picketty's personal website ([http://piketty.pse.ens.fr/fr/capitalisback](http://piketty.pse.ens.fr/fr/capitalisback)).
 
 ## Execution Order
-
-Run the jupyter notebooks in the following order:
+1. Run chmod +x CreateFolderStructure.sh to recreate my folder structure as my scripts operate with relative folder references. 
+2. Execute CreateFolderStructure.sh
+3. Run the jupyter notebooks in the following order:
 
 ```
 Bundestagsscraper (V2) → KeywordSearch → Preprocessing (V2) → 
