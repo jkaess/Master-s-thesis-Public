@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Master-s-thesis-Public
 Repository for replicating the results of my master's thesis "Governing the Body: Abortion discourse in the FRG"
 =======
@@ -44,4 +43,3 @@ The replication requires only the execution of:
 6. NLP-Analyisis.ipynb
 
 Overall a very inefficient implementation of my research design but this project is one examplary case of path dependency.
->>>>>>> master
