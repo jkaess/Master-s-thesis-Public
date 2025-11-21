@@ -1,6 +1,7 @@
 # Master-s-thesis-Public
+<br>
+Repository for replicating the results of my master's thesis *"Governing the Body: Abortion discourse in the FRG"*
 
-Repository for replicating the results of my master's thesis "Governing the Body: Abortion discourse in the FRG"
 =======
 
 This repository serves as a repository for **replication** of the quantitative results of my masters thesis.
