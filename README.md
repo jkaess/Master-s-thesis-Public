@@ -22,7 +22,7 @@ Bundestagsscraper (V2) → KeywordSearch → Preprocessing (V2) →
 Annotation & Processing → Descriptives & OLS → NLP-Analysis
 ```
 
-![Flowchart](flowchart)
+![Flowchart](FlowchartScripts.png)
 
 *(own figure)*
 
