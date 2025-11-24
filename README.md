@@ -1,6 +1,6 @@
-# Master-s-thesis-Public
+# Replication package "Governing the body"
 <br>
-Repository for replicating the results of my master's thesis *"Governing the Body: Abortion discourse in the FRG"*
+Repository for replicating the results of my master's thesis "Governing the Body: Abortion discourse in the FRG"
 
 =======
 
